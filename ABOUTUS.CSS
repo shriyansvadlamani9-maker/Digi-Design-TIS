@@ -1,0 +1,90 @@
+html {
+  Background-image: url("https://files.catbox.moe/d0cqi6.png");
+  Background-repeat:no-repeat;
+Background-size:cover;
+}
+nav {
+  background: rgba(15, 12, 8, 0.55);
+  backdrop-filter: blur(4px);
+  overflow: auto;
+  padding: 10px 20px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  float: right;
+}
+
+li a {
+  color: #d8b24a;
+  text-align: center;
+  padding: 10px 20px;
+  text-decoration: none;
+  font-size: 30px;
+  font-weight: bold;
+  display: block;
+}
+  html, body {
+  margin: 0;
+    height: 100%;}
+.logo {
+float:left; 
+}
+.about-container {
+    text-align: center;
+    margin-top: 30px;
+}
+
+
+.owners-title {
+    font-size: 110px;
+    color: #e0b63c;
+    font-family: Georgia, serif;
+    text-shadow: 4px 4px 6px black;
+
+
+    transform: perspective(500px) rotateX(30deg);
+    margin-bottom: -20px;
+}
+
+
+.owners-box {
+    width: 1000px;
+    margin: auto;
+
+    background: #341000;
+
+    display: flex;
+    justify-content: space-evenly;
+
+    padding: 40px;
+}
+
+
+.owner {
+    width: 250px;
+    color: #d8b24a;
+}
+
+
+.owner img {
+    width: 130px;
+    height: 180px;
+    object-fit: cover;
+}
+
+.owner h2 {
+    color: white;
+    font-size: 28px;
+    margin-top: 15px;
+}
+
+.owner p {
+    font-size: 28px;
+    line-height: 1.5;
+}
