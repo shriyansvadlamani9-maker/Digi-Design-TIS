@@ -109,3 +109,10 @@ position: absolute;
 top: 40%;
 right: 250%;
   transform: translate (-50%, -50%);}
+.ac
+{display: flex;
+align-items: rig ;
+position: absolute;
+bottom: 185.5%;
+right: -1800%;
+  transform: translate (-50%, -50%);}
