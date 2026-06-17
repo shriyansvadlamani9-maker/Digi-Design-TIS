@@ -45,7 +45,7 @@ align-items: center;
 position: absolute;
 top: 30%;
 left: 40%;
-transform: translate (-50%, -50%);}
+transform: translate (-50%, -50%);} 
 .exp-container {
   width: 300px;
   height: 20px;
@@ -72,7 +72,7 @@ align-items: center;
 position: absolute;
 top: 110%;
 left: 10%;
-transform: translate (-50%, -50%);}
+transform: translate (-50%, -50%);} 
 
 p
 {display: flex;
@@ -82,7 +82,7 @@ top: 95%;
 left: 30%;
 transform: translate (-50%, -50%);
 font-size:20px;
-font-weight:bold;}
+font-weight:bold;} 
 .quest-board {
     width: 10vw;   /* 10% of viewport width */
     height: 10vh;  /* 10% of viewport height */
@@ -107,11 +107,5 @@ align-items: left ;
 position: absolute;
 top: 40%;
 right: 250%;
-  transform: translate (-50%, -50%);}
-.ac
-{display: flex;
-align-items: rig ;
-position: absolute;
-bottom: 185.5%;
-right: -1800%;
-  transform: translate (-50%, -50%);}
+transform: translate (-50%, -50%);
+item-size}
